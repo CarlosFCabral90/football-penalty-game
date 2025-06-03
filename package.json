@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://carlosfcabra190.github.io/football-penalty-game",
+  "homepage": "https://CarlosFCabral90.github.io/football-penalty-game",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
