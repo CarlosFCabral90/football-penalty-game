@@ -11,7 +11,6 @@ function App() {
         width: '100%'
       }}
     >
-      <h1>Football Penalty Game</h1>
       <div style={{ width: '80%' }}>
         <UnityGame />
       </div>
