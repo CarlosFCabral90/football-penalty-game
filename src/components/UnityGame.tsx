@@ -1,14 +1,6 @@
 export default function UnityGame() {
     return (
-        <div 
-            style={{
-                justifyContent: 'center',
-                alignItems: 'center',
-                display: 'flex',
-                height: '80vh',
-                width: '100%',
-            }}
-        >
+        <div>
             <iframe
                 title="Unity WebGL Game"
                 src="/unity/index.html"
