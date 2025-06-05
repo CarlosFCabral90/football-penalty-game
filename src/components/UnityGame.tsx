@@ -5,7 +5,7 @@ export default function UnityGame() {
                 justifyContent: 'center',
                 alignItems: 'center',
                 display: 'flex',
-                height: '100%',
+                height: '100vh',
                 width: '100%',
             }}
         >
